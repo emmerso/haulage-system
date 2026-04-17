@@ -1,0 +1,26 @@
+INFO 2026-04-16 20:15:42,923 views Truck registered: ABC 1234
+INFO 2026-04-16 20:20:06,838 views Driver created: John Doe - License: LIC123456
+INFO 2026-04-16 20:23:12,717 views Job created: 1 - From Harare CBD to Bulawayo
+INFO 2026-04-16 20:27:33,461 views Truck updated: ABC 1234 - Status: UNDER_MAINTENANCE
+INFO 2026-04-16 20:29:42,740 views Truck updated: ABC 1234 - Status: UNDER_MAINTENANCE
+INFO 2026-04-16 20:45:27,994 views Truck updated: ABC 1234 - Status: AVAILABLE
+INFO 2026-04-16 20:47:04,134 views Job created: 2 - From Harare CBD to Bulawayo
+INFO 2026-04-16 21:14:27,718 views Driver created: John Doe - License: LIC123
+INFO 2026-04-16 21:14:37,247 views Driver deleted: John Doe
+INFO 2026-04-16 21:14:47,178 views Driver updated: Jane Doe
+INFO 2026-04-16 21:15:00,608 views Job created: 1 - From Harare CBD to Bulawayo
+INFO 2026-04-16 21:15:05,403 views Job 1 status updated to: DELIVERED
+INFO 2026-04-16 21:15:10,186 views Job 1 status updated to: IN_TRANSIT
+INFO 2026-04-16 21:15:18,549 views Truck registered: ZW 1234
+INFO 2026-04-16 21:15:35,273 views Truck deleted: ZW 9999
+INFO 2026-04-16 21:16:16,741 views Truck updated: ZW 1234 - Status: UNDER_MAINTENANCE
+INFO 2026-04-17 13:04:51,531 views Driver created: John Doe - License: LIC123
+INFO 2026-04-17 13:05:00,523 views Driver deleted: John Doe
+INFO 2026-04-17 13:05:11,579 views Driver updated: Jane Doe
+INFO 2026-04-17 13:05:33,007 views Job created: 1 - From Harare CBD to Bulawayo
+INFO 2026-04-17 13:05:40,165 views Job 1 status updated to: DELIVERED
+INFO 2026-04-17 13:05:53,663 views Job 1 status updated to: IN_TRANSIT
+INFO 2026-04-17 13:06:06,635 views Truck registered: ZW 1234
+INFO 2026-04-17 13:06:14,913 views Truck deleted: ZW 9999
+INFO 2026-04-17 13:06:46,427 views Truck updated: ZW 1234 - Status: UNDER_MAINTENANCE
+INFO 2026-04-17 14:24:18,735 views Truck updated: ABC 1234 - Status: UNDER_MAINTENANCE
