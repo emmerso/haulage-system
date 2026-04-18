@@ -1,7 +1,7 @@
 # Haulage Truck Management System
 
 A REST API system for managing haulage trucks, drivers, and delivery jobs.
-
+Built as a technical assessment for Marytechenock Solutions.
 
 ## Tech Stack
 - Python 3.11
@@ -9,6 +9,7 @@ A REST API system for managing haulage trucks, drivers, and delivery jobs.
 - Django REST Framework
 - PostgreSQL 15
 - Docker & Docker Compose
+- Swagger UI (drf-spectacular)
 
 ---
 
@@ -36,6 +37,16 @@ Open a second terminal in the same folder and run:
 docker-compose exec web python manage.py createsuperuser
 ```
 Enter your chosen username, email and password when prompted.
+
+---
+
+## API Documentation
+
+Interactive Swagger documentation is available at:
+
+**http://127.0.0.1:8000/api/docs/**
+
+All endpoints are fully documented and can be tested directly from the browser.
 
 ---
 
@@ -156,13 +167,19 @@ OK
 ---
 
 ## Features Implemented
+
+### Core Requirements
 - Full CRUD for Trucks, Drivers and Jobs
+- All business rules enforced
+- PostgreSQL database
+- Docker containerization
+
+### other Features
 - Token Authentication
 - Pagination (10 items per page)
 - Request Logging to haulage.log
-- Unit Tests (14 tests)
-- PostgreSQL database
-- Docker containerization
+- 14 Unit Tests all passing
+- Swagger API Documentation
 
 ---
 

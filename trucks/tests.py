@@ -7,7 +7,7 @@ from .models import Truck
 class TruckTests(TestCase):
 
     def setUp(self):
-        # Create test user and token
+       
         self.user = User.objects.create_user(
             username='testuser',
             password='testpass123'

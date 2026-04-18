@@ -1,5 +1,5 @@
 INFO 2026-04-16 20:15:42,923 views Truck registered: ABC 1234
-INFO 2026-04-16 20:20:06,838 views Driver created: John Doe - License: LIC123456
+INFO 2026-04-16 20:20:06,838 views Driver created: John - License: LIC123456
 INFO 2026-04-16 20:23:12,717 views Job created: 1 - From Harare CBD to Bulawayo
 INFO 2026-04-16 20:27:33,461 views Truck updated: ABC 1234 - Status: UNDER_MAINTENANCE
 INFO 2026-04-16 20:29:42,740 views Truck updated: ABC 1234 - Status: UNDER_MAINTENANCE
